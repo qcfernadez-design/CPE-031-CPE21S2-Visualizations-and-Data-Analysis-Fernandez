@@ -6,10 +6,22 @@
 <details>
   <summary>🛠️ My Tech Stack</summary>
   <br>
-  List your tools or badges here so they stay neatly tucked away until clicked!
+  <h1 align="center">NOTHING✨</h1>
+  <p align="center">
+  <img width="360" height="50%" alt="image" src="https://github.com/user-attachments/assets/0ef00151-7696-4f5e-9a79-b776ba3f1287" />
+  </p>
 </details>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=false&vCenter=false&width=435&lines=Computer+Engineering+Student;Learning+Every+Day;Building+Cool+Projects;I+don't+know+how+to+code;someone+help+me;coding+is+fun+:))
+<details>
+  <summary>Languages I know</summary>
+  <br>
+  <h1 align="center">C++</h1>
+  <p align="center">
+<img width="498" height="498" alt="honkai-star-rail-hsr" src="https://github.com/user-attachments/assets/d28ffe8e-e60c-4d18-8fdd-903c6175ee97" />
+  </p>
+</details>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=false&vCenter=false&width=435&lines=Work+in+progress............ミᕕ(ᐛ)>;coding+is+fun+(╯°□°)╯+︵+┻━┻;Computer+Engineering+Student;Still+learning+how+code;)
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=qcfernadez-design&layout=compact&theme=dark)
 
