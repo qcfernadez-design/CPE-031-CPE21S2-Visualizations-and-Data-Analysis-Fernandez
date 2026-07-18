@@ -4,12 +4,22 @@
 <p align="center">A student and developer passionate about creating things.</p>
 
 <details>
-  <summary>🛠️ My Tech Stack</summary>
+  <summary>Work Experience👷🔧</summary>
   <br>
-  <h1 align="center">NOTHING✨</h1>
+  <h1 align="center">>NOTHING✨</h1>
   <p align="center">
   <img width="360" height="50%" alt="image" src="https://github.com/user-attachments/assets/0ef00151-7696-4f5e-9a79-b776ba3f1287" />
   </p>
+</details>
+
+<details>
+  <summary>🛠️ My Tech Stack</summary>
+  <br>
+  <h1 align="center">C++</h1>
+  <p align="center">
+<img width="498" height="498" alt="honkai-star-rail-hsr" src="https://github.com/user-attachments/assets/d28ffe8e-e60c-4d18-8fdd-903c6175ee97" />
+  </p>
+  <p align="center">A student and developer passionate about creating things.</p>
 </details>
 
 <details>
@@ -17,9 +27,11 @@
   <br>
   <h1 align="center">C++</h1>
   <p align="center">
-<img width="498" height="498" alt="honkai-star-rail-hsr" src="https://github.com/user-attachments/assets/d28ffe8e-e60c-4d18-8fdd-903c6175ee97" />
-  </p>
+    
+  </p
+  <p align="center">A student and developer passionate about creating things.</p>
 </details>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=false&vCenter=false&width=435&lines=Work+in+progress............ミᕕ(ᐛ)>;coding+is+fun+(╯°□°)╯+︵+┻━┻;Computer+Engineering+Student;Still+learning+how+code;)
 
