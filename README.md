@@ -15,10 +15,8 @@
 <details>
   <summary>🛠️ My Tech Stack</summary>
   <br>
-  <h1 align="center">C++</h1>
-  <p align="center">
-<img width="498" height="498" alt="honkai-star-rail-hsr" src="https://github.com/user-attachments/assets/d28ffe8e-e60c-4d18-8fdd-903c6175ee97" />
-  </p>
+    <h1 align="center">Data Structures and algorithms</h1>
+  
   <p align="center">A student and developer passionate about creating things.</p>
 </details>
 
@@ -27,8 +25,8 @@
   <br>
   <h1 align="center">C++</h1>
   <p align="center">
-    
-  </p
+<img width="498" height="498" alt="honkai-star-rail-hsr" src="https://github.com/user-attachments/assets/d28ffe8e-e60c-4d18-8fdd-903c6175ee97" />
+  </p>
   <p align="center">A student and developer passionate about creating things.</p>
 </details>
 
